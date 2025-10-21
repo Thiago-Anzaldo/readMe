@@ -32,12 +32,10 @@ Name: Thiago Anzaldo
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
 ### Stylesheet
-1)
 Name: Samuel Serrezuela
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
-3)
 Name: Gael Baez
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
