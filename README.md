@@ -11,29 +11,37 @@ Description: He has a passion for programming and teamwork. He is in charge of t
 
 ### Data Base Designer:
 Name: Ignacio Gonzalez
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
 ### Programmer:
 1)
 Name: Santino Rioja
-Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
-2)
-Name: Emiliano Estrada
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 3)
-Name: Agustin Castro
+Name: Emiliano Estrada
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 4)
+Name: Agustin Castro
+
+Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
+5)
 Name: Thiago Anzaldo
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
 ### Stylesheet
 1)
 Name: Samuel Serrezuela
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
-2)
+3)
 Name: Gael Baez
+
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
+
 
 I hope you like this project, as it was made with a lot of love. Thank you very much.
 						
