@@ -15,18 +15,22 @@ Name: Ignacio Gonzalez
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
 ### Programmer:
+1)
 Name: Santino Rioja
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
+2)
 Name: Emiliano Estrada
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
+3)
 Name: Agustin Castro
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
+4)
 Name: Thiago Anzaldo
 
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
