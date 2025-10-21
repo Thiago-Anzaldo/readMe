@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <style>
+    circle {
+      fill: #4CAF50;
+      stroke: #2E7D32;
+      stroke-width: 5px;
+    }
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 20px;
+      fill: #2E7D32;
+      font-weight: bold;
+      text-anchor: middle;
+    }
+  </style>
+  
+  <circle cx="75" cy="75" r="70" />
+  <text x="75" y="85">Hola</text>
+</svg>
