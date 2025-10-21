@@ -5,7 +5,7 @@ Hello, we are ***Los Amiguitos*** and we present "Gacha-Dex" which is a project 
 ## Team members:
 
 ### Scrum Master:
-Name: Dario Montero
+Name: Dario Montero.
 Description: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.
 
 ### Data Base Designer:
