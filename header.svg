@@ -2,14 +2,13 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        /* Aquí puedes añadir todo el CSS que desees */
         .container {
           display: flex;
           align-items: center;
           justify-content: center;
           width: 100%;
           height: 100%;
-          background-color: #24292e; /* Color de fondo */
+          background-color: #24292e;
           color: white;
           font-family: Arial, sans-serif;
           text-align: center;
@@ -20,83 +19,9 @@
           margin: 0;
         }
       </style>
-<div align="center">
-<h1> GACHA DEX</h1>
-<img src="/imagenes/gachadex.png" width="250">
-
-<p align="center">
-  <img src="header.svg" alt="Banner personalizado" />
-</p>
-
-
-Hello, we are ***Los Amiguitos*** and we present "Gacha-Dex" which is a project where we offer a page about pokemon where you can roll pokemon and collect them. Pokémon can come out in their normal or shiny form, there is also a pity system that the more pity you have the more probability of getting a **LEGENDARY** OR **SHINY**, we have a pokedex that will fill up as you get the pokemon and also an inventory where you can show off your pokemon both in their shiny form and in their normal form and be able to put them as favorites.
-
-<H2> Team members:</H2>
-<div align="center">
-
-</div>
-
--  **Name**: Dario Montero <br>
-**Rol**: Scrum Master and Programmer <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-
-<div align="center">
-
-</div>
-
--  **Name**: Santino Rioja <br>
-**Rol**: Programmer and helper database <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Emiliano Estrada <br>
-**Rol**: Programmer <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Agustin Castro <br>
-**Rol**: Programmer <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Thiago Anzaldo <br>
-**Rol**: Programmer <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Gael Baez <br>
-**Rol**: Stylesheet <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Samuel Serrezuela <br>
-**Rol**: Stylesheet <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-<div align="center">
-
-</div>
-
--  **Name**: Ignacio Gonzalez <br>
-**Rol**: Database Designer <br>
-**Description**: He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project. <br>
-
-
-I hope you like this project, as it was made with a lot of love. Thank you very much.
-						
-
-<div align="center">
-<b>Los Amiguitos:)</b><br>
-
-</div>
+      <div class="container">
+        <h1>GACHA DEX</h1>
+      </div>
+    </div>
   </foreignObject>
 </svg>
