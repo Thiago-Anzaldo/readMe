@@ -1,0 +1,28 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        /* Aquí puedes añadir todo el CSS que desees */
+        .container {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+          background-color: #24292e; /* Color de fondo */
+          color: white;
+          font-family: Arial, sans-serif;
+          text-align: center;
+          border-radius: 10px;
+        }
+        .container h1 {
+          font-size: 3rem;
+          margin: 0;
+        }
+      </style>
+      <div class="container">
+        <h1>¡Hola, bienvenido! 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
