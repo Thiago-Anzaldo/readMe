@@ -55,7 +55,6 @@
   <text x="120" y="65" class="title">GACHA DEX 💫</text>
 
   <!-- Logo -->
-  <image href="https://thiago-anzaldo.github.io/readMe/imagenes/gachadex.png"
          x="120" y="90" width="250" height="150" />
 
   <!-- Descripción -->
@@ -69,7 +68,6 @@
   <!-- Integrantes del equipo -->
   <g transform="translate(30, 420)">
     <!-- Dario -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Benja.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Dario Montero</text>
     <text x="140" y="55" class="role">Scrum Master and Programmer</text>
     <text x="140" y="80" class="desc">Passionate about programming and teamwork. Leads the Gacha-Dex project.</text>
@@ -77,7 +75,6 @@
 
   <g transform="translate(30, 580)">
     <!-- Santino -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Santi.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Santino Rioja</text>
     <text x="140" y="55" class="role">Programmer and DB Assistant</text>
     <text x="140" y="80" class="desc">Helps manage database and contributes to development.</text>
@@ -85,7 +82,6 @@
 
   <g transform="translate(30, 740)">
     <!-- Emiliano -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Emiliano.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Emiliano Estrada</text>
     <text x="140" y="55" class="role">Programmer</text>
     <text x="140" y="80" class="desc">Dedicated developer working on Gacha-Dex systems.</text>
@@ -93,7 +89,6 @@
 
   <g transform="translate(30, 900)">
     <!-- Agustin -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Agus.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Agustin Castro</text>
     <text x="140" y="55" class="role">Programmer</text>
     <text x="140" y="80" class="desc">Works on functionality and helps maintain project logic.</text>
@@ -101,7 +96,6 @@
 
   <g transform="translate(30, 1060)">
     <!-- Thiago -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Thiago.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Thiago Anzaldo</text>
     <text x="140" y="55" class="role">Programmer</text>
     <text x="140" y="80" class="desc">Develops core features and helps with animations and layout.</text>
@@ -109,7 +103,6 @@
 
   <g transform="translate(30, 1220)">
     <!-- Gael -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Gael.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Gael Baez</text>
     <text x="140" y="55" class="role">Stylesheet</text>
     <text x="140" y="80" class="desc">Handles all CSS and design parts of Gacha-Dex.</text>
@@ -117,7 +110,6 @@
 
   <g transform="translate(30, 1380)">
     <!-- Samuel -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Samuel.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Samuel Serrezuela</text>
     <text x="140" y="55" class="role">Stylesheet</text>
     <text x="140" y="80" class="desc">Helps design the UI and improve user experience.</text>
@@ -125,7 +117,6 @@
 
   <g transform="translate(30, 1540)">
     <!-- Ignacio -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Ignacio.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Ignacio Gonzalez</text>
     <text x="140" y="55" class="role">Database Designer</text>
     <text x="140" y="80" class="desc">Designs and manages the project’s database systems.</text>
@@ -133,6 +124,5 @@
 
   <!-- Créditos finales -->
   <text x="30" y="1720" class="footer">Made with ❤️ by Los Amiguitos</text>
-  <image href="https://thiago-anzaldo.github.io/readMe/imagenes/amiguitos.jpeg" x="400" y="1650" width="120" height="120" />
 </svg>
 
