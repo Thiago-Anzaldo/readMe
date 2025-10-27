@@ -82,14 +82,14 @@
   <g transform="translate(600, 420)"> <!-- x=600 centro -->
     <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Benja.png" x="-60" y="0" width="120" height="120" />
     <text y="150" class="member-name">Dario Montero</text>
-    <text y="175" class="role">Scrum Master & Programmer</text>
+    <text y="175" class="role">Scrum Master and Programmer</text>
     <text y="200" class="desc">Passionate about programming and teamwork. Leads the Gacha-Dex project.</text>
   </g>
 
   <g transform="translate(600, 580)">
     <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Santi.png" x="-60" y="0" width="120" height="120" />
     <text y="150" class="member-name">Santino Rioja</text>
-    <text y="175" class="role">Programmer & DB Assistant</text>
+    <text y="175" class="role">Programmer and DB Assistant</text>
     <text y="200" class="desc">Helps manage database and contributes to development.</text>
   </g>
 
