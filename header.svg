@@ -6,11 +6,6 @@
       100% { transform: translateY(0px); }
     }
 
-    .wave {
-      fill: #3498db;
-      animation: wave 2s infinite;
-    }
-
     text {
       font-family: 'Poppins', sans-serif;
       fill: #2c3e50;
@@ -53,10 +48,6 @@
       text-anchor: middle;
     }
   </style>
-
-  <!-- Círculo animado -->
-  <circle class="wave" cx="600" cy="60" r="30" />
-
   <!-- Título centrado -->
   <text x="600" y="65" class="title">GACHA DEX 💫</text>
 
