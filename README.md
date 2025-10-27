@@ -4,5 +4,5 @@
 </div>
 
 
-![SVG CON ESTILO](https://thiago-anzaldo.github.io/readMe/header.svg)
+![SVG CON ESTILO](https://thiago-anzaldo.github.io/readMe)
 
