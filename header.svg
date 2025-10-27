@@ -113,7 +113,7 @@
     <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
   </g>
 
-<g transform="translate(600, 1500)">
+<g transform="translate(600, 1620)">
   <image href="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/imagenes/Ignacio.png" x="-60" y="0" width="120" height="120" />
   <text y="150" class="member-name">Ignacio Gonzalez</text>
   <text y="175" class="role">Database Designer</text>
@@ -121,7 +121,7 @@
 </g>
 
 <!-- Créditos finales -->
-<text x="600" y="2100" class="footer">Made with ❤️ by Los Amiguitos</text>
+<text x="600" y="1900" class="footer">Made with ❤️ by Los Amiguitos</text>
 <image href="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/imagenes/amiguitos.jpeg"
        x="540" y="2120" width="120" height="120" />
 
