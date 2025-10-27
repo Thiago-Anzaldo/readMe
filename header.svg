@@ -17,7 +17,7 @@
     }
 
     .member-name {
-      font-size: 18px;
+      font-size: 20px;
       font-weight: bold;
       fill: #1a237e;
       text-anchor: middle;
@@ -65,7 +65,7 @@
 
   <!-- Integrantes del equipo centrados -->
   <g transform="translate(600, 420)"> <!-- x=600 centro -->
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Benja.png" x="-60" y="0" width="120" height="120" />
+    <image href="https://raw.githubusercontent.com/SantinoRiojaZupo/Gacha-Dex/refs/heads/main/imagenes/Benja.png" x="-60" y="0" width="120" height="120" />
     <text y="150" class="member-name">Dario Montero</text>
     <text y="175" class="role">Scrum Master and Programmer</text>
     <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
@@ -93,7 +93,7 @@
   </g>
 
   <g transform="translate(600, 1020)">
-    <image href="https://thiago-anzaldo.github.io/readMe/Thiago.png" x="-60" y="0" width="120" height="120" />
+    <image href="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/Benja.png" x="-60" y="0" width="120" height="120" />
     <text y="150" class="member-name">Thiago Anzaldo</text>
     <text y="175" class="role">Programmer</text>
     <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
