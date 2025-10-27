@@ -113,14 +113,15 @@
     <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
   </g>
 
-  <g transform="translate(600, 1540)">
-    <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Ignacio.png" x="-60" y="0" width="120" height="120" />
-    <text y="150" class="member-name">Ignacio Gonzalez</text>
-    <text y="175" class="role">Database Designer</text>
-    <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
-  </g>
+<g transform="translate(600, 1580)">
+  <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Ignacio.png" x="-60" y="0" width="120" height="120" />
+  <text y="150" class="member-name">Ignacio Gonzalez</text>
+  <text y="175" class="role">Database Designer</text>
+  <text y="200" class="desc">He has a passion for programming and teamwork. He is in charge of the organization and development of the Gacha-Dex project.</text>
+</g>
 
-  <!-- Créditos finales -->
-  <text x="600" y="1720" class="footer">Made with ❤️ by Los Amiguitos</text>
-  <image href="https://thiago-anzaldo.github.io/readMe/imagenes/amiguitos.jpeg" x="540" y="1740" width="120" height="120" />
+<!-- Créditos finales -->
+<text x="600" y="1880" class="footer">Made with ❤️ by Los Amiguitos</text>
+<image href="https://thiago-anzaldo.github.io/readMe/imagenes/amiguitos.jpeg" x="540" y="1900" width="120" height="120" />
+
 </svg>
