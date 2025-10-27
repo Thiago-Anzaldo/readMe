@@ -71,7 +71,7 @@
     <!-- Dario -->
     <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Benja.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Dario Montero</text>
-    <text x="140" y="55" class="role">Scrum Master & Programmer</text>
+    <text x="140" y="55" class="role">Scrum Master and Programmer</text>
     <text x="140" y="80" class="desc">Passionate about programming and teamwork. Leads the Gacha-Dex project.</text>
   </g>
 
@@ -79,7 +79,7 @@
     <!-- Santino -->
     <image href="https://thiago-anzaldo.github.io/readMe/imagenes/Santi.png" x="0" y="0" width="120" height="120" />
     <text x="140" y="30" class="member-name">Santino Rioja</text>
-    <text x="140" y="55" class="role">Programmer & DB Assistant</text>
+    <text x="140" y="55" class="role">Programmer and DB Assistant</text>
     <text x="140" y="80" class="desc">Helps manage database and contributes to development.</text>
   </g>
 
