@@ -24,13 +24,13 @@
     }
 
     .role {
-      font-size: 18px;
+      font-size: 17px;
       fill: #0d47a1;
       text-anchor: middle;
     }
 
     .desc {
-      font-size: 18px;
+      font-size: 17px;
       fill: #333;
       text-anchor: middle;
     }
