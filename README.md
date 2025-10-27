@@ -1,2 +1,3 @@
-<img href="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/refs/heads/main/header.svg">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/header.svg?v=3" width="800">
+</div>
