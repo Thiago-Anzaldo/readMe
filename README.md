@@ -2,12 +2,9 @@
 <h1> GACHA DEX</h1>
 <img src="/imagenes/gachadex.png" width="250">
 </div>
-<p class="fotos">
-<img src="amiguitos.jpeg" alt="Banner personalizado" />
-</p>
-<p align="center">
-  <img src="header.sv" alt="Banner personalizado" />
-</p>
+
+
+![SVG CON ESTILO](https://thiago-anzaldo.github.io/readMe/header.svg)
 
 
 Hello, we are ***Los Amiguitos*** and we present "Gacha-Dex" which is a project where we offer a page about pokemon where you can roll pokemon and collect them. Pokémon can come out in their normal or shiny form, there is also a pity system that the more pity you have the more probability of getting a **LEGENDARY** OR **SHINY**, we have a pokedex that will fill up as you get the pokemon and also an inventory where you can show off your pokemon both in their shiny form and in their normal form and be able to put them as favorites.
