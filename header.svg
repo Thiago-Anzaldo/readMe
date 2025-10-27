@@ -1,11 +1,5 @@
 <svg viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes wave {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
-      100% { transform: translateY(0px); }
-    }
-
     text {
       font-family: 'Poppins', sans-serif;
       fill: #2c3e50;
