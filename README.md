@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/header.svg" width="2000">
-  <img src="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/Thiago.png" width="150">
+  <img src="header.svg" width="600" style="margin:0; padding:0;">
+  <img src="Thiago.png" width="120" style="margin:0; padding:0;">
 </div>
