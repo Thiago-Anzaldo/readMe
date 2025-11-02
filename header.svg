@@ -46,7 +46,7 @@
   <text x="600" y="65" class="title">GACHA DEX 💫</text>
 
   <!-- Logo centrado -->
-  <image href="Thiago.png" x="0" y="0" height="300px" width="500px"/> 
+  <image href="https://raw.githubusercontent.com/Thiago-Anzaldo/readMe/main/Thiago.png"
          x="475" y="90" width="250" height="150" />
 
   <!-- Descripción centrada -->
